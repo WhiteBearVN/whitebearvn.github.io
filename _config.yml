@@ -13,28 +13,26 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Ho_Chi_Minh
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: WhiteBearVN                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Thought on cyber security   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A cybyer security blog by WhiteBearVN
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.whitebear.vn'
 
 github:
-  username: github_username             # change to your github username
+  username: WhiteBearVN             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: WhiteBearVN_            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,13 +41,13 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/WhiteBearVN_      # change to your twitter homepage
+    - https://github.com/WhiteBearVN       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#google_site_verification: google_meta_tag_verification # change to your verification string
 
 # ↑ --------------------------
 
@@ -72,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: light   # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
