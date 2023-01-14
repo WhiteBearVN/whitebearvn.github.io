@@ -1,6 +1,6 @@
 ---
 title: "[Writeup] VPNT Secathon 2018 - Misc"
-author: F4c3l3ss_
+author: Bu
 date: 2018-03-20
 categories: [Writeup,VNPTSecathon2018]
 tags: [writeup,forensics,ctf]
@@ -30,7 +30,7 @@ thành
 
 sau khi có được file wav, trong lúc thi mình có nghĩ đến kĩ thuật lsb và đã sử dụng wavesteg để lấy flag nhưng đáng buồn là mình chỉ sử dụng 1 lsb để decode và ra được 1 nữa flag.
 
-![IMG](/assets/img/blog/hinh4.PNG)
+![IMG](/assets/img/blog/hinh4.png)
 
  Cho đến lúc chiều khi ban tổ chức có hint là ack mình vẫn không biết đó là kĩ thuật gì. Sau khi cuộc thi kết thúc mình có hỏi và được mấy anh trong Zepto team thì mới biết đó là kĩ thuật dubstep data encoding, một kĩ thuật rất mới ( mình từng có lướt qua twitter của DEFCON và thấy kĩ thuật này nhưng hình như lúc đó đang cày quest book TI8 nên bỏ qua luôn thì phải 😭 ). Các bạn có thể tham khảo kĩ thuật này tại [đây](https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops).
 
