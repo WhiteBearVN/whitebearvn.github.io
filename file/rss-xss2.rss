@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-    <title>RSS Test</title>
-    <link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>
-    <description>RSS Test Description</description>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 -0000</lastBuildDate>
-    <item>
-        <title>RSS Test</title>
-        <link>http://example.com</link>
-        <description>a post</description>
-        <author>user@example.com</author>
-        <pubDate>Fri, 12 Aug 2022 00:00:00 -0000</pubDate>
-    </item>
-</channel>	
+
+
   <channel>
+    
+    
     <title><script>alert(44444)</script></title>
     <link>https://craftcms.com/blog</link>
-    <atom:link href="https://craftcms.com/blog.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.whitebear.vn/file/rss-xss2.rss" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
     <pubDate>Wed, 08 Mar 2023 11:42:00 -0800</pubDate>
@@ -35,17 +26,17 @@
         ]]></description>
       </item>
           <item>
-        <title>Craft 4.4 Released</title>
-        <link>https://craftcms.com/blog/craft-4-4-released</link>
-        <pubDate>Wed, 08 Mar 2023 10:26:00 -0800</pubDate>
-        <author>hello@craftcms.com</author>
-        <guid>https://craftcms.com/blog/craft-4-4-released</guid>
-        <description><![CDATA[
-          <p>We’re thrilled to announce that Craft 4.4 has been officially tagged!</p>
-
-          <p><a href="https://craftcms.com/blog/craft-4-4-released">Continue reading</a></p>
-        ]]></description>
-      </item>
+            <title>RSS Test</title>
+    <link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>
+    <description>RSS Test Description</description>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 -0000</lastBuildDate>
+    <item>
+        <title>RSS Test</title>
+        <link>http://example.com</link>
+        <description>a post</description>
+        <author>user@example.com</author>
+        <pubDate>Fri, 12 Aug 2022 00:00:00 -0000</pubDate>
+    </item>
           <item>
         <title>The Entrification Plan</title>
         <link>https://craftcms.com/blog/entrification</link>
