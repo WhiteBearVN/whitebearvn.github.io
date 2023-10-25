@@ -1,6 +1,6 @@
 ---
 title: Set up website with apache webserver and nginx waf reverse proxy
-author: F4c3l3ss_
+author: WhiteBearVN
 date: 2020-04-03
 categories: [Research]
 tags: [nginx,forensics,apache,webserver,system,waf]
@@ -196,6 +196,8 @@ nginx version: nginx/1.17.9
 Download source code:
 
 ```bash
+$ wget http://nginx.org/download/nginx-1.17.9.tar.gz
+$ tar -xvzf nginx-1.17.9.tar.gz
 $ cd nginx-1.17.9
 $ ./configure --with-compat --add-dynamic-module=../ModSecurity-nginx
 $ make modules
@@ -272,7 +274,7 @@ $ curl example.com/?testparam=test
 <head><title>403 Forbidden</title></head>
 <body bgcolor="white">
 <center><h1>403 Forbidden</h1></center>
-<hr><center>nginx/1.13.1</center>
+<hr><center>nginx/1.17.9</center>
 </body>
 </html>
 ```
