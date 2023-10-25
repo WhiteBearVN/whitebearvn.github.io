@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+  <channel>
+    
+    
+    <title><script>alert(44444)</script></title>
+    <link>https://craftcms.com/blog</link>
+    <atom:link href="https://blog.whitebear.vn/file/rss-xss2.rss" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Wed, 08 Mar 2023 11:42:00 -0800</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2023 11:42:00 -0800</lastBuildDate>
+
+          <item>
+        <title><script>alert(5555)</script></title>
+        <link>https://craftcms.com/blog/dot-all-2023</link>
+        <pubDate>Wed, 08 Mar 2023 11:42:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/dot-all-2023</guid>
+        <description><![CDATA[
+          <p>Dot All 2023 is coming to Barcelona!</p>
+
+          <p><a href="https://craftcms.com/blog/dot-all-2023">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+            <title>RSS Test</title>
+    <link><![CDATA["]]><![CDATA[>]]><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>
+    <description>RSS Test Description</description>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 -0000</lastBuildDate>
+    <item>
+        <title>RSS Test</title>
+        <link>http://example.com</link>
+        <description>a post</description>
+        <author>user@example.com</author>
+        <pubDate>Fri, 12 Aug 2022 00:00:00 -0000</pubDate>
+    </item>
+          <item>
+        <title>The Entrification Plan</title>
+        <link>https://craftcms.com/blog/entrification</link>
+        <pubDate>Tue, 07 Mar 2023 08:41:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/entrification</guid>
+        <description><![CDATA[
+          <p>Craft is undergoing a transition: categories, tags, and global sets are going away, in favor of entries.</p>
+
+          <p><a href="https://craftcms.com/blog/entrification">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Accessible Target Sizes</title>
+        <link>https://craftcms.com/blog/accessible-target-sizes</link>
+        <pubDate>Tue, 07 Feb 2023 12:58:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/accessible-target-sizes</guid>
+        <description><![CDATA[
+          <p>Appropriately sized touch targets improve both accessibility and overall usability.</p>
+
+          <p><a href="https://craftcms.com/blog/accessible-target-sizes">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Rethinking Volume Subfolders</title>
+        <link>https://craftcms.com/blog/rethinking-volume-subfolders</link>
+        <pubDate>Tue, 24 Jan 2023 09:23:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/rethinking-volume-subfolders</guid>
+        <description><![CDATA[
+          <p>The way we navigate to subfolders within Craft is about to change.</p>
+
+          <p><a href="https://craftcms.com/blog/rethinking-volume-subfolders">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>2022 in Review</title>
+        <link>https://craftcms.com/blog/2022-in-review</link>
+        <pubDate>Fri, 30 Dec 2022 09:05:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/2022-in-review</guid>
+        <description><![CDATA[
+          <p>This was an incredibly eventful and productive year for us.</p>
+
+          <p><a href="https://craftcms.com/blog/2022-in-review">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Craft Generator</title>
+        <link>https://craftcms.com/blog/craft-generator</link>
+        <pubDate>Tue, 13 Dec 2022 12:10:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/craft-generator</guid>
+        <description><![CDATA[
+          <p>Scaffold new Craft CMS plugins, modules, and system components with the new Craft Generator tool.</p>
+
+          <p><a href="https://craftcms.com/blog/craft-generator">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Shopify for Craft CMS</title>
+        <link>https://craftcms.com/blog/shopify</link>
+        <pubDate>Tue, 08 Nov 2022 12:43:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/shopify</guid>
+        <description><![CDATA[
+          <p>We’re excited to announce a first-party Shopify integration!</p>
+
+          <p><a href="https://craftcms.com/blog/shopify">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Introducing Craft Console</title>
+        <link>https://craftcms.com/blog/craft-console</link>
+        <pubDate>Wed, 02 Nov 2022 04:40:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/craft-console</guid>
+        <description><![CDATA[
+          <p>Craft Console is the new place to manage your licenses and plugins, with a major new feature: Organizations.</p>
+
+          <p><a href="https://craftcms.com/blog/craft-console">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>What we Announced at Dot All 2022</title>
+        <link>https://craftcms.com/blog/dot-all-2022-announcements</link>
+        <pubDate>Fri, 30 Sep 2022 07:17:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/dot-all-2022-announcements</guid>
+        <description><![CDATA[
+          <p>Dot All 2022 is a wrap! Here’s what we announced during the conference.</p>
+
+          <p><a href="https://craftcms.com/blog/dot-all-2022-announcements">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Craft for Ukraine</title>
+        <link>https://craftcms.com/blog/ukraine</link>
+        <pubDate>Tue, 26 Jul 2022 10:31:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/ukraine</guid>
+        <description><![CDATA[
+          <p>We’re offering free Craft CMS licenses to all initiatives working to help the people of Ukraine.</p>
+
+          <p><a href="https://craftcms.com/blog/ukraine">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Retiring Craft Nitro</title>
+        <link>https://craftcms.com/blog/retiring-craft-nitro</link>
+        <pubDate>Tue, 28 Jun 2022 10:06:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/retiring-craft-nitro</guid>
+        <description><![CDATA[
+          <p>Craft Nitro, our local development environment, is no longer undergoing active maintenance or support.</p>
+
+          <p><a href="https://craftcms.com/blog/retiring-craft-nitro">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Accessible Custom Fields</title>
+        <link>https://craftcms.com/blog/accessible-custom-fields</link>
+        <pubDate>Wed, 01 Jun 2022 10:00:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/accessible-custom-fields</guid>
+        <description><![CDATA[
+          <p>As part of our journey toward achieving WCAG 2.1 AA compliance, we’ve been working to ensure that custom fields are accessible to all users.</p>
+
+          <p><a href="https://craftcms.com/blog/accessible-custom-fields">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Craft’s Accessibility Conformance Report</title>
+        <link>https://craftcms.com/blog/accessibility-conformance-report</link>
+        <pubDate>Tue, 10 May 2022 08:14:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/accessibility-conformance-report</guid>
+        <description><![CDATA[
+          
+          <p><a href="https://craftcms.com/blog/accessibility-conformance-report">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Craft 4</title>
+        <link>https://craftcms.com/blog/craft-4</link>
+        <pubDate>Wed, 04 May 2022 10:19:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/craft-4</guid>
+        <description><![CDATA[
+          <p>We’re thrilled to announce the release of Craft 4!</p>
+
+          <p><a href="https://craftcms.com/blog/craft-4">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Commerce 4</title>
+        <link>https://craftcms.com/blog/commerce-4</link>
+        <pubDate>Wed, 04 May 2022 10:14:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/commerce-4</guid>
+        <description><![CDATA[
+          <p>Commerce 4 has hit the shelves!</p>
+
+          <p><a href="https://craftcms.com/blog/commerce-4">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Disclosure Menus</title>
+        <link>https://craftcms.com/blog/disclosure-menus</link>
+        <pubDate>Thu, 13 Jan 2022 10:08:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/disclosure-menus</guid>
+        <description><![CDATA[
+          
+          <p><a href="https://craftcms.com/blog/disclosure-menus">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>2021</title>
+        <link>https://craftcms.com/blog/2021</link>
+        <pubDate>Thu, 30 Dec 2021 08:26:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/2021</guid>
+        <description><![CDATA[
+          <p>Another big year is in the books. Our team has been firing on all cylinders, improving our products and creating new tools, services, and documentation to improve the overall experience of working with Craft CMS.</p>
+
+          <p><a href="https://craftcms.com/blog/2021">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>New Demo Sites</title>
+        <link>https://craftcms.com/blog/new-demo-sites</link>
+        <pubDate>Tue, 13 Jul 2021 12:11:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/new-demo-sites</guid>
+        <description><![CDATA[
+          <p>Two new demo sites are now available for taking Craft CMS and Craft Commerce for a spin.</p>
+
+          <p><a href="https://craftcms.com/blog/new-demo-sites">Continue reading</a></p>
+        ]]></description>
+      </item>
+          <item>
+        <title>Craft 3.7 Released</title>
+        <link>https://craftcms.com/blog/craft-3-7-released</link>
+        <pubDate>Tue, 13 Jul 2021 10:29:00 -0700</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/craft-3-7-released</guid>
+        <description><![CDATA[
+          <p>Craft 3.7 introduces exciting authoring improvements.</p>
+
+          <p><a href="https://craftcms.com/blog/craft-3-7-released">Continue reading</a></p>
+        ]]></description>
+      </item>
+      </channel>
+</rss>

